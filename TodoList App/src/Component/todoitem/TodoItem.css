@@ -1,0 +1,34 @@
+td{
+  width: 42%;
+  font-size: 23px;
+}
+.tbody tr:nth-of-type(even){
+  background-color: aliceblue;
+  color: black;
+  font-size: 18px;
+
+}
+.tbody tr:nth-of-type(odd){
+  background-color: rgb(255, 139, 7);
+  color: white;
+  font-size: 20px;
+}
+.listItem{
+  border: 2px solid black;
+  width: 100%;
+}
+.listItem tbody tr{
+  border: 2px solid aqua;
+}
+td.action{
+  cursor: pointer;
+}
+td.action:hover{
+  color: red;
+  background-color: #3f3f3f;
+}
+.pargraph{
+  width: 100%;
+  text-align: center;
+  background-color: black;
+}

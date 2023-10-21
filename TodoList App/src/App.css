@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgba(37, 37, 50, 0.98);
+  color: #ffc107;
+}
+.text-center{
+  align-items: center;
+}
+
+.container{
+  width: 70%;
+  margin: 10% auto;
+}
